@@ -14,7 +14,6 @@ We recommend using Ubuntu 22.04, on which you need to do the following update of
 
 5.Additionally, make sure you have Docker and Docker Compose installed.
 
-
 6. chmod +x judge0.sh
   
 8. ./judge0.sh
